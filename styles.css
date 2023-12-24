@@ -56,12 +56,15 @@ h1 {
 
 h2 {
     text-align: center;
-    padding: 20px 0; 
+    margin: 20px; 
     color: #2b2a3e;
 }
-button{
+
+
+button {
 border: none;
 border-radius: 13px ;
- margin: 2vw;
-    width: 50%;
+margin: 2vw;
+width: 30%;
+
 }
