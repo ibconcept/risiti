@@ -25,6 +25,13 @@ h1 {
     color: #ffffff;
 }
 
+h2 {
+    text-align: center;
+    margin: 20px; 
+    color: #8d7da1;
+}
+
+
 .logo {
     max-width: 200px;
     margin: 0 auto;
@@ -52,12 +59,6 @@ h1 {
     font-size: 0.8em;
     color: #8d8aa9;
     margin-top: 20px;
-}
-
-h2 {
-    text-align: center;
-    margin: 20px; 
-    color: #2b2a3e;
 }
 
 
